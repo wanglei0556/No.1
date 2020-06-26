@@ -1,0 +1,11 @@
+﻿# 忽略 index 文件夹
+/login
+
+# 忽略 index.html 文件
+/index.html
+
+# 忽略 index.css 文件
+/index.css
+
+# 忽略 index.js 文件
+/index.js
